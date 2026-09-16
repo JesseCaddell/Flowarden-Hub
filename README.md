@@ -7,6 +7,10 @@ https://github.com/users/JesseCaddell/projects/4
 - https://github.com/JesseCaddell/ad490-workflow-automator-api
 - https://github.com/JesseCaddell/ad490-workflow-automator-web
 
+### What's Next
+The capstone MVP below is complete. Ongoing development is tracked in
+[`POST_MVP_ROADMAP.md`](./POST_MVP_ROADMAP.md).
+
 
 ROADMAP BROKEN INTO EPICS
 
